@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Sanjula3
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning bacholer degree of Information and Communication Technology
-- 💞️ I’m looking to collaborate on many developers around the world
-- 📫 How to reach me useing sanjulapremasiri3@gmail.com
+👾
 
-<!---
-Sanjula3/Sanjula3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I'm a Fullstack Developer & a Freelancer based in Sri Lanka.
+
+I have around 5 years of experience working in software development providing solutions for real world problems. I am eager to learn new technologies and build things that helps people.
+
+I am interested in data science & machine learning, also in my spare time I love to play video games.
+
+[More about me &rarr;](https://github.com/sanjulap)
